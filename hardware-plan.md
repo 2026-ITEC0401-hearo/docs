@@ -118,3 +118,6 @@
   - 단, ESP32가 하는 일이 단순해서(소리 녹음 + WiFi 전송 + LED/진동) 코드 난이도 낮음
 - WiFi 의존: 같은 공유기 내에서 동작 (지연 ~10ms 수준으로 문제 없음)
 - RPi 허브가 고장나면 전체 시스템 중단 → 안정성 확보 필요
+
+- <img width="1594" height="1054" alt="image" src="https://github.com/user-attachments/assets/d42ea162-ae3f-4416-aa6d-90ca36cfb890" />
+
